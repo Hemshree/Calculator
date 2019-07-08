@@ -1,2 +1,2 @@
 # Calculator
-It is a basic calculator application made using Flutter framework.
+It is a basic calculator application made using flutter framework.
